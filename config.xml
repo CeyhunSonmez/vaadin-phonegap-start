@@ -4,7 +4,7 @@
 	id		= "tr.com.aktifbank.akustik.mobile.branch"
 	version 	= "1.0.0">
 
-	<name>PhoneGap packaged Vaadin app</name>
+	<name>Akustik Mobile</name>
 
 	<description>
 		A template for getting started with PhoneGap wrapped Vaadin app and build.phonegap.com
