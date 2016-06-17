@@ -10,9 +10,9 @@
 		A template for getting started with PhoneGap wrapped Vaadin app and build.phonegap.com
 	</description>
 
-	<author href="http://mstahv.github.com"
-		email="matti@vaadin.com">
-		Matti Tahvonen
+	<author href="https://github.com/CeyhunSonmez/vaadin-phonegap-start"
+		email="ceyhun.sonmez@aktifbank.com.tr">
+		Ceyhun Sönmez
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
