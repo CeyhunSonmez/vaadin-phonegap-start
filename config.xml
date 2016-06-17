@@ -17,13 +17,13 @@
 
 	<icon src="icon.png" gap:role="default" />
 
-	<!-- <feature name="http://api.phonegap.com/1.0/geolocation"/> -->
+	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	
 	<!-- These rules lets demo.vaadin.com take over the web view created by cordova/phonegap -->
-	<!--
+	
 	<preference name="stay-in-webview" value="true" />
-	<access origin="http://demo.vaadin.com" /> -->
+	<access origin="https://f5webtest.aktifbank.com.tr/MobileBranch/" />
 	<!-- Vornitologist uses openstreetmap data as background map so we'll whitelist that as well -->
 	<!-- <access origin="http://openstreetmap.org" subdomains="true" /> -->
 
